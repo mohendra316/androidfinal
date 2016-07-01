@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewJSONTryout</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
